@@ -11,3 +11,5 @@ Main idea is to propose using Markdown in the clinical sources which could easie
 
 - [Clinical note with text](notes/note1.txt)
 - [Clinical note with Markdown](notes/note1.md)
+
+Comparison of changes https://github.com/kant2002/clinical-notes-markdown/pull/1/files
